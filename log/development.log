@@ -1,0 +1,9 @@
+  [1m[35m (158.4ms)[0m  [1m[35mCREATE DATABASE "app_development" ENCODING = 'unicode'[0m
+  [1m[35m (141.7ms)[0m  [1m[35mCREATE DATABASE "app_test" ENCODING = 'unicode'[0m
+Started GET "/" for 172.29.0.1 at 2023-07-13 22:40:21 +0900
+Processing by Rails::WelcomeController#index as HTML
+  Rendering /usr/local/bundle/gems/railties-7.0.6/lib/rails/templates/rails/welcome/index.html.erb
+  Rendered /usr/local/bundle/gems/railties-7.0.6/lib/rails/templates/rails/welcome/index.html.erb (Duration: 1.5ms | Allocations: 636)
+Completed 200 OK in 18ms (Views: 6.5ms | ActiveRecord: 0.0ms | Allocations: 6840)
+
+
