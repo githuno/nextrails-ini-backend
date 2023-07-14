@@ -1,5 +1,6 @@
-
-# *.key
+# Ignore key
+*.key
+*Key
 
 # Ignore bundler config.
 /.bundle
